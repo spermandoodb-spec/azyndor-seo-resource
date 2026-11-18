@@ -2,7 +2,7 @@
 
 **Project website:** https://azyndor.com/
 
-This repository contains independent, practical guides about evaluating online video experiences, troubleshooting playback, protecting account privacy, and improving accessibility.
+This repository contains practical companion guides about evaluating online video experiences, troubleshooting playback, protecting account privacy, and improving accessibility.
 
 ## Public resource site
 
@@ -28,4 +28,4 @@ Content should answer a real reader question, use verifiable claims, and explain
 
 ## Independence and disclosure
 
-This is an independently maintained resource project. The link to [Azyndor](https://azyndor.com/) identifies the associated website; it does not imply third-party endorsement, certification, or partnership. Consult each provider's own documentation for service-specific policies.
+This companion resource project is maintained by the repository owner. The link to [Azyndor](https://azyndor.com/) identifies the associated website; it does not imply third-party endorsement, certification, or partnership. Consult each provider's own documentation for service-specific policies.
