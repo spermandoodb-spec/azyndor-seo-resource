@@ -1,0 +1,1 @@
+# azyndor-seo-resource
