@@ -6,7 +6,8 @@ This repository contains practical companion guides about evaluating online vide
 
 ## Public resource site
 
-- [Azyndor Resource Center](https://spermandoodb-spec.github.io/azyndor-seo-resource/)
+- [Azyndor Resource Center — English](https://spermandoodb-spec.github.io/azyndor-seo-resource/)
+- [Centro de recursos de Azyndor — Español](https://spermandoodb-spec.github.io/azyndor-seo-resource/es/)
 
 ## Guides
 
